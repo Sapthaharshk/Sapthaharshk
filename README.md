@@ -49,12 +49,14 @@
 
 ## 📁 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|--------|
-| [🧠 ML Model Zoo](https://github.com/your-username/ml-model-zoo) | A curated collection of ML/DL models for classification, regression, and NLP | Python, Sklearn, PyTorch |
-| [🔍 Fake News Detector](https://github.com/your-username/fake-news-detector) | NLP-based fake news classifier trained on real-world datasets | Python, NLTK, TF-IDF, Flask |
-| [📸 Image Classifier](https://github.com/your-username/image-classifier-cnn) | CNN-based image classifier for multiple datasets | Keras, OpenCV, TensorFlow |
-| [📊 Data Dashboard](https://github.com/your-username/data-dashboard-streamlit) | Streamlit dashboard for visualizing ML predictions | Pandas, Seaborn, Streamlit |
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [🫁 Lung Cancer Detection](https://github.com/Saptha-Harsh/Lung-Cancer-Detection) | Early detection of lung cancer using a CNN-based classification model to improve survival rates. | Python, CNN, Deep Learning |
+| [🚶 Pedestrian Detection](https://github.com/Saptha-Harsh/Pedestrian-Detection) | Real-time pedestrian detection system for autonomous driving applications. | Python, Object Detection, Deep Learning |
+| [💬 Text Sentiment Analysis](https://github.com/Saptha-Harsh/Text-Sentiment-Analysis) | Scrapes text from websites and performs sentiment classification using NLP. | Python, NLP, Web Scraping, Data Wrangling |
+| [🌍 Earthquake Prediction](https://github.com/Saptha-Harsh/Earthquake-Prediction) | Predicts magnitude and probability of earthquakes in a region using historical data and ML algorithms. | ML Algorithms, Data Visualization, Tableau |
+| [🏘️ LilHomie](https://github.com/Saptha-Harsh/LilHomie) | Predicts house prices using a custom pipeline with web scraping, EDA, and ML in the NY Tri-State Area. | Python, Scrapy, Data Engineering, Predictions |
+| [🌐 Language Translation](https://github.com/Saptha-Harsh/Language-Translation) | Encoder-decoder based language translator app for English to French translation. | TensorFlow, Seq2Seq, GUI (Tkinter) |
 
 ---
 
