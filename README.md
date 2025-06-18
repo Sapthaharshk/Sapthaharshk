@@ -57,19 +57,19 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [🫁 Lung Cancer Detection](https://github.com/Saptha-Harsh/Lung-Cancer-Detection) | Early detection of lung cancer using a CNN-based classification model to improve survival rates. | Python, CNN, Deep Learning |
-| [🚶 Pedestrian Detection](https://github.com/Saptha-Harsh/Pedestrian-Detection) | Real-time pedestrian detection system for autonomous driving applications. | Python, Object Detection, Deep Learning |
-| [💬 Text Sentiment Analysis](https://github.com/Saptha-Harsh/Text-Sentiment-Analysis) | Scrapes text from websites and performs sentiment classification using NLP. | Python, NLP, Web Scraping, Data Wrangling |
-| [🌍 Earthquake Prediction](https://github.com/Saptha-Harsh/Earthquake-Prediction) | Predicts magnitude and probability of earthquakes in a region using historical data and ML algorithms. | ML Algorithms, Data Visualization, Tableau |
-| [🏘️ LilHomie](https://github.com/Saptha-Harsh/LilHomie) | Predicts house prices using a custom pipeline with web scraping, EDA, and ML in the NY Tri-State Area. | Python, Scrapy, Data Engineering, Predictions |
-| [🌐 Language Translation](https://github.com/Saptha-Harsh/Language-Translation) | Encoder-decoder based language translator app for English to French translation. | TensorFlow, Seq2Seq, GUI (Tkinter) |
+| [🫁 Lung Cancer Detection](https://github.com/Sapthaharshk/Lung-Cancer-Detection) | Early detection of lung cancer using a CNN-based classification model to improve survival rates. | Python, CNN, Deep Learning |
+| [🚶 Pedestrian Detection](https://github.com/Sapthaharshk/Pedestrian-Detection) | Real-time pedestrian detection system for autonomous driving applications. | Python, Object Detection, Deep Learning |
+| [💬 Text Sentiment Analysis](https://github.com/Sapthaharshk/Text-Sentiment-Analysis) | Scrapes text from websites and performs sentiment classification using NLP. | Python, NLP, Web Scraping, Data Wrangling |
+| [🌍 Earthquake Prediction](https://github.com/Sapthaharshk/Earthquake-Prediction) | Predicts magnitude and probability of earthquakes in a region using historical data and ML algorithms. | ML Algorithms, Data Visualization, Tableau |
+| [🏘️ LilHomie](https://github.com/Sapthaharshk/LilHomie) | Predicts house prices using a custom pipeline with web scraping, EDA, and ML in the NY Tri-State Area. | Python, Scrapy, Data Engineering, Predictions |
+| [🌐 Language Translation](https://github.com/Sapthaharshk/Language-Translation) | Encoder-decoder based language translator app for English to French translation. | TensorFlow, Seq2Seq, GUI (Tkinter) |
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saptha-Harsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Saptha-Harsh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptha-Harsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sapthaharshk&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sapthaharshk&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapthaharshk&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
