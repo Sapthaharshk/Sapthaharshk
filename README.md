@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C896&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B,+I'm+Saptha+Harsh;Machine+Learning+Enthusiast+%7C+Python+Developer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Projects+on+AI,+ML,+and+Data+Science;Passionate+about+Building+Intelligent+Solutions)](https://github.com/Saptha-Harsh)
 
-# 👋 Hi, I'm Saptha Harsh
+# 👋 Hi, I'm Sapthaharsh
 
 🎯 A passionate **Machine Learning Engineer** with hands-on experience in building data-driven solutions, training ML models, and deploying them into production. I thrive at the intersection of **data, algorithms, and real-world applications**.
 
